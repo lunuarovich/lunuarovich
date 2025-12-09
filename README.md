@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+💻 Tech Stack:
+HTML5 CSS3 JavaScript TypeScript Vercel NPM React Query React Router React React Hook Form Redux Next JS NodeJS TailwindCSS Vite Figma Git GitHub GitHub Actions Trello
+
 <!--
 **lunuarovich/lunuarovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
