@@ -1,19 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm Maksym Martynchuk
+## Junior Front-End Developer | HTML | CSS | JavaScript
+### 🚀 About Me
+🌱 I’m currently deepening my knowledge in React and Next.js.
+<p align="left">💻 Front end Developer transitioning to Full Stack development. I build clean, scalable
+interfaces using HTML , CSS, and JavaScript, with a strong understanding of code structure and component based design.
+Currently learning backend technologies to become a Full Stack Developer capable of working on both client and server sides.
+Motivated, fast learning, and focused on real production projects.
+</p>
+📫 Reach me on LinkedIn: Maksym Martynchuk
 
-💻 Tech Stack:
-HTML5 CSS3 JavaScript TypeScript Vercel NPM React Query React Router React React Hook Form Redux Next JS NodeJS TailwindCSS Vite Figma Git GitHub GitHub Actions Trello
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<!--
-**lunuarovich/lunuarovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lunuarocich)](https://github.com/lunuarocich/github-readme-activity-graph)
