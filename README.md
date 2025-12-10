@@ -20,7 +20,7 @@ Motivated, fast learning, and focused on real production projects.
 
 ## 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/maksym-martynchuk) | [Telegram](https://t.me/Lunuarovich) | [Email](mailto:lenuarovich@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/) | [Telegram](https://t.me/Lunuarovich)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lunuarovich)](https://github.com/lunuarovich/github-readme-activity-graph)
