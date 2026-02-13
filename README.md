@@ -2,10 +2,11 @@
 ## Junior Front-End Developer | HTML | CSS | JavaScript
 ### 🚀 About Me
 🌱 I’m currently deepening my knowledge in React and Next.js.
-<p align="left">💻 Front end Developer transitioning to Full Stack development. I build clean, scalable
-interfaces using HTML , CSS, and JavaScript, with a strong understanding of code structure and component based design.
-Currently learning backend technologies to become a Full Stack Developer capable of working on both client and server sides.
-Motivated, fast learning, and focused on real production projects.
+<p align="left">💻 Junior Front-End Developer transitioning to Full-Stack development.
+I build scalable and user-friendly web applications using JavaScript, React.js, and Next.js, with strong knowledge of component-based architecture and clean code principles.
+Experienced with HTML, CSS, and modern tooling.
+Currently expanding backend skills to become a Full-Stack Developer capable of working on both client and server sides.
+Motivated, fast learner, and focused on real production-level projects.
 </p>
 
 # 🧰 Tech Stack:
