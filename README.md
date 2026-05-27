@@ -32,6 +32,8 @@ Next.js, React, TypeScript, TanStack Query, CSS Modules.
 [GitHub-repository](https://github.com/AvalianY/pets-team-project)<br>
 – Responsive pet adoption platform featuring adaptive UI, modal interactions, API integration, and user-friendly forms with validation.
 
+---
+
 **Tech Stack:**
 CSS, JavaScript, HTML, Vite.
 
