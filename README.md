@@ -43,7 +43,5 @@ CSS, JavaScript, HTML, Vite.
 
 ## 📫 How to reach me:  
 
-[LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/) | [Telegram](https://t.me/Lunuarovich)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lunuarovich)](https://github.com/lunuarovich/github-readme-activity-graph)
+• 💼[LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/)<br>
+• 💬[Telegram](https://t.me/Lunuarovich)
