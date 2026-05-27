@@ -49,7 +49,6 @@ CSS, JavaScript, HTML, Vite.
 
 ## 📫 How to reach me:  
 
-• 💼 [LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/)<br><br>
+• 💼 [LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/)<br>
+-
 • 💬 [Telegram](https://t.me/Lunuarovich)
-
----
