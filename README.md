@@ -10,12 +10,14 @@
 
 # 💻Featured Projects:
 ### 🕊️ [Leleka](https://stork-frontend.vercel.app/)
-[GitHub-repository Front-End](https://github.com/Kostya088/stork-frontend)•
+[GitHub-repository Front-End](https://github.com/Kostya088/stork-frontend) •
 [GitHub-repository Back-End](https://github.com/Kostya088/stork-backend)<br>
 – A full-stack pregnancy support application built with Next.js and Node.js. Implemented responsive diary pages, protected routing, authentication flow, dynamic entry details, and API integration using TanStack Query and CSS Modules.
 
 **Tech Stack:**
 Next.js, React, TypeScript, Node.js, Express, MongoDB, TanStack Query, CSS Modules.
+
+---
 
 ### 📝 [NoteHub](https://09-auth-sigma-two.vercel.app/)
 [GitHub-repository](https://github.com/lunuarovich/09-auth)<br>
@@ -23,6 +25,8 @@ Next.js, React, TypeScript, Node.js, Express, MongoDB, TanStack Query, CSS Modul
 
 **Tech Stack:**
 Next.js, React, TypeScript, TanStack Query, CSS Modules.
+
+---
 
 ### 🐾 [Paw Hut](https://avaliany.github.io/pets-team-project/)
 [GitHub-repository](https://github.com/AvalianY/pets-team-project)<br>
