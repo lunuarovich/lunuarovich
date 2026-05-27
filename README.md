@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Maksym Martynchuk
-## Junior Front-End Developer | HTML | CSS | JavaScript | React.js | Node.js
+## Junior Front-End Developer | HTML | CSS | JavaScript | TypeScript | React.js | Next.js | Node.js
 ### 🚀 About Me
 🌱 I’m currently deepening my knowledge in React and Next.js.
 <p align="left">💻 I build scalable and user-friendly web applications using JavaScript, TypeScript, React.js, Next.js, and Node.js. I have experience with responsive UI, REST API integration, authentication, Express.js, MongoDB, and modern front-end architecture. Focused on clean code, practical problem-solving, and building real production-level projects.
