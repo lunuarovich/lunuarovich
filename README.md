@@ -51,3 +51,5 @@ CSS, JavaScript, HTML, Vite.
 
 • 💼 [LinkedIn](https://www.linkedin.com/in/maksym-martynchuk/)<br><br>
 • 💬 [Telegram](https://t.me/Lunuarovich)
+
+---
