@@ -10,22 +10,22 @@
 
 # 💻Featured Projects:
 ### - [Leleka](https://stork-frontend.vercel.app/)
-[GitHub-repository Front-End](https://github.com/Kostya088/stork-frontend)
-[GitHub-repository Back-End](https://github.com/Kostya088/stork-backend)
+[GitHub-repository Front-End](https://github.com/Kostya088/stork-frontend)<br>
+[GitHub-repository Back-End](https://github.com/Kostya088/stork-backend)<br>
 – A full-stack pregnancy support application built with Next.js and Node.js. Implemented responsive diary pages, protected routing, authentication flow, dynamic entry details, and API integration using TanStack Query and CSS Modules.
 
 **Tech Stack:**
 Next.js, React, TypeScript, Node.js, Express, MongoDB, TanStack Query, CSS Modules.
 
 ### - [NoteHub](https://09-auth-sigma-two.vercel.app/)
-[GitHub-repository](https://github.com/lunuarovich/09-auth)
+[GitHub-repository](https://github.com/lunuarovich/09-auth)<br>
 – An authenticated notes management application built with Next.js App Router. Implements SSR/CSR data fetching, protected routes, tag filtering, pagination, modal note previews, and server-side prefetching with TanStack Query.
 
 **Tech Stack:**
 Next.js, React, TypeScript, TanStack Query, CSS Modules.
 
 ### - [Paw Hut](https://avaliany.github.io/pets-team-project/)
-[GitHub-repository](https://github.com/AvalianY/pets-team-project)
+[GitHub-repository](https://github.com/AvalianY/pets-team-project)<br>
 – Responsive pet adoption platform featuring adaptive UI, modal interactions, API integration, and user-friendly forms with validation.
 
 **Tech Stack:**
